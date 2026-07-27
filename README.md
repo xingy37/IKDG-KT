@@ -2,7 +2,6 @@
 
 Official implementation of **IKDG-KT**, the Interaction-Knowledge Dual-Level Dynamic Graph framework for knowledge tracing. The model represents learning records as a continuous-time heterogeneous graph over students, questions, and knowledge concepts (KCs), and predicts whether a student will answer a question correctly.
 
-The implementation accompanies the paper [Interaction-Knowledge Dual-Level Dynamic Graph for Knowledge Tracing](Interaction-Knowledge%20Dual-Level%20Dynamic%20Graph.pdf).
 
 ## Overview
 
